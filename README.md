@@ -1,4 +1,4 @@
-# nopCommerce Xamarin App
+# nopCommerce Xamarin App - Forked
 
 <p><strong>Platform Support</strong></p>
 
